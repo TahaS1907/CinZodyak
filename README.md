@@ -1,3 +1,3 @@
-Çin Zodyağı hesaplama ödevidir.
+# Chinese Zodiac calculation
 
 [Patika](www.patika.dev)
